@@ -1,2 +1,2 @@
 language = "dart"
-run = "git diff;dart main.dart"
+run = "bash main.sh"
