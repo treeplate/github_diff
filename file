@@ -1,7 +1,7 @@
 void main() {
-   daddy();
+   daddy_says();
 }
 
-void daddy/*says*/() {
-  print("hi"+"bobo"); 
+void daddy_says() {
+  print("I'm Dad."); 
 }
