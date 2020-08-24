@@ -1,3 +1,7 @@
-void main/*daddy says*/() {
-  print("hi"); 
+void main() {
+   daddy();
+}
+
+void daddy/*says*/() {
+  print("hi"+"bobo"); 
 }
