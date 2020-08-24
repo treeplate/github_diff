@@ -1,1 +1,3 @@
-Daddy says() { hi }
+void main/*daddy says*/() {
+  print("hi"); 
+}
