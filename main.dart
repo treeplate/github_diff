@@ -2,7 +2,7 @@ void main() {
    daddy_says();
 }
 
-@Deprecated("Use Daddy.say_something");
+@Deprecated("Use Daddy.say_something")
 void daddy_says() {
   print("I'm Dad."); 
 }
