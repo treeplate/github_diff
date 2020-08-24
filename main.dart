@@ -4,7 +4,7 @@ void main() {
 
 @Deprecated("Use Daddy.say_something")
 void daddy_says() {
-  print("I'm Dad."); 
+  Daddy().say_something(); 
 }
 
 class Daddy {
