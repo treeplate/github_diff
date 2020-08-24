@@ -1,1 +1,1 @@
-# github_diff
+# github_diff [![Run on Repl.it](https://repl.it/badge/github/treeplate/github_diff)](https://repl.it/github/treeplate/github_diff)
